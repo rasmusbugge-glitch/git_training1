@@ -1,4 +1,4 @@
 # Hello world
 This is my first repository
-I am looking forward to learn way more
+I am looking forward to learn way git
 
