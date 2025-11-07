@@ -1,4 +1,4 @@
 # Hello world
 This is my first repository
-I am looking forward to learn less
+I am looking forward to learn python
 
